@@ -1,4 +1,3 @@
-<img src=".github/ignite.png" alt="Ignite" >
 
 <h3 align="center">
   Desafio 02 - Componentizando a aplicação
